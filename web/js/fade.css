@@ -1,0 +1,191 @@
+/*------SETUP------*/
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+
+body {
+  padding-top: 70px;
+  background-color: white;
+}
+
+footer {
+  text-align: center;
+}
+
+/*------CONTAINER------*/
+.center-block {
+  display: table;
+}
+
+.cloud {
+  margin: inherit;
+}
+
+.left-menu {
+  margin: inherit;
+}
+
+.content {
+  margin: inherit;
+}
+
+/*------LIST------*/
+.content ul {
+  list-style-type: none;
+}
+
+.content li {
+  float: left;
+  position: relative;
+  width: 240px;
+  height: 135px;
+  overflow: hidden;
+}
+
+.content li:hover {
+  cursor: pointer;
+}
+
+/*------PARAGRAPH------*/
+.content li p {
+  position: absolute;
+  color: transparent;
+  font: 400 0px/140px 'Arvo', Helvetica, Arial, sans-serif;
+  font-size: x-small;
+  background: transparent;
+  width: 240px;
+  height: 135px;
+  top: 0;
+  left: 0;
+  text-align: center;
+  text-transform: uppercase;
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  transition: all 1s ease;
+}
+
+.content li:hover p {
+  color: white;
+  background: rgba(0, 0, 0, 0.7);
+  z-index: 1;
+}
+
+/*------IMAGES------*/
+.content img {
+  width: 240px;
+  height: 135px;
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  transition: all 1s ease;
+}
+
+.content li:hover img {
+  width: 320px;
+  height: 180px;
+}
+
+/*------MEDIA QUERIES------*/
+@media screen and (max-width: 2260px) {
+  .cloud {
+    height: 270px;
+    float: left;
+  }
+  .content {
+    width: 1920px;
+  }
+}
+
+@media screen and (max-width: 2020px) {
+  .cloud {
+    height: 270px;
+    float: left;
+  }
+  .content {
+    width: 1680px;
+  }
+}
+
+@media screen and (max-width: 1780px) {
+  .cloud {
+    height: 270px;
+    float: left;
+  }
+  .content {
+    width: 1440px;
+  }
+}
+
+@media screen and (max-width: 1540px) {
+  .cloud {
+    height: 270px;
+    float: left;
+  }
+  .content {
+    width: 1200px;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  .cloud {
+    height: 270px;
+    float: left;
+  }
+  .content {
+    width: 960px;
+  }
+}
+
+@media screen and (max-width: 1060px) {
+  .cloud {
+    height: 270px;
+    float: left;
+  }
+  .content {
+    width: 720px;
+  }
+}
+
+@media screen and (max-width: 820px) {
+  .cloud {
+    float: none;
+    display: inherit;
+  }
+  .content {
+    width: 480px;
+  }
+}
+
+@media screen and (max-width: 580px) {
+  .cloud {
+    display: none;
+  }
+  .content {
+    width: 240px;
+  }
+}
+
+/*------CLEARFIX------*/
+/* For modern browsers */
+.cf:before,.cf:after {
+  content: "";
+  display: table;
+}
+
+.cf:after {
+  clear: both;
+}
+
+/* For IE 6/7 (trigger hasLayout) */
+.cf {
+  *zoom: 1;
+}
+
+.textbox {
+  color: white;
+}

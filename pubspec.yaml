@@ -1,0 +1,4 @@
+name: NewsMagic
+description: Magic News Web Page
+dependencies:
+  browser: any
