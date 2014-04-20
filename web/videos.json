@@ -1,5 +1,29 @@
 [
   {
+    "id": "91FMqdYcIRs",
+    "title": "Luis and Ashley's Grand Illusion - The Magicians - Episode 1 - BBC One",
+    "category": "Illusion, BBC, Luis de Matos",
+    "magician": "Luis de Matos"
+  },
+  {
+    "id": "za8j9fQOMYo",
+    "title": "Lance Burton Magic Cups And Balls",
+    "category": "Close-up, Cups and Balls, Lance Burton",
+    "magician": "Lance Burton"
+  },
+  {
+    "id": "vemENEF3dKU",
+    "title": "Winner of 2010 Blackpool stage magic championship",
+    "category": "Stage, Wand, Manipulation, JungMin Lee",
+    "magician": "JungMin Lee"
+  },
+  {
+    "id": "uI5I1w3l3Tg",
+    "title": "Andost - FISM 2012 Closeup Act - 1st place Micro Magic",
+    "category": "Close-up, Card, FISM, Andost",
+    "magician": "Andost"
+  },
+  {
     "id": "Boj8qeK6TwU",
     "title": "謳歌-Ouka- リングアーツ新作 Ringarts with music note",
     "category": "Performance",
@@ -540,6 +564,12 @@
     "magician": "Bill Malone"
   },
   {
+    "id": "GigYWy2UmOY",
+    "title": "Keith Barry: Brain magic",
+    "category": "Mental, TED, Keith Barry",
+    "magician": "Keith Barry"
+  },
+  {
     "id": "VlOxlSOr3_M",
     "title": "Telekinetic Coffee Shop Surprise",
     "category": ""
@@ -589,5 +619,17 @@
     "title": "Zeki (Yoo Hyun Min) - Mission Impossible Card",
     "category": "Close-up, Card, Zeki, Yoo Hyun Min",
     "magician": "Yoo Hyun Min"
+  },
+  {
+    "id": "1_oa8m5Oq00",
+    "title": "Lennart Green: Close-up card magic with a twist",
+    "category": "Close-up, Card, TED, Lennart Green",
+    "magician": "Lennart Green"
+  },
+  {
+    "id": "EDUkQvJSAJE",
+    "title": "EDGE by Mathieu Bich [theory11]",
+    "category": "Close-up, Card, Mathieu Bich",
+    "magician": "Mathieu Bich"
   }
 ]

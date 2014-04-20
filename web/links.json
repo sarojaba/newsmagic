@@ -1,0 +1,61 @@
+[
+  {
+    "category": "Sites",
+    "items": [
+      {
+        "title": "덱스토어",
+        "url": "http://deckstore.kr/"
+      },
+      {
+        "title": "Genii, The Conjurors' Magazine",
+        "url": "http://geniimagazine.com/"
+      },
+      {
+        "title": "Kardistry",
+        "url": "http://www.kardistry.com/"
+      }
+    ]
+  },
+  {
+    "category": "Facebook Pages",
+    "items": [
+      {
+        "title": "김원일 마술연구소",
+        "url": "https://www.facebook.com/childrensmagic"
+      },
+      {
+        "title": "듀오매직 (Duo Magic)",
+        "url": "https://www.facebook.com/duomagickorea"
+      },
+      {
+        "title": "이은결 - Eun Gyeol Lee",
+        "url": "https://www.facebook.com/illusionArtistEG"
+      },
+      {
+        "title": "최현우(Charming Choi) '마술의방'",
+        "url": "https://www.facebook.com/KoreaCharmingChoi"
+      },
+      {
+        "title": "FISM",
+        "url": "https://www.facebook.com/fismmagic"
+      },
+      {
+        "title": "Magichands",
+        "url": "https://www.facebook.com/pages/Magichands"
+      }
+    ]
+  },
+  {
+    "category": "Articles",
+    "items": [
+      {
+        "title": "[취재파일] 마술은 눈속임? 마술은 과학입니다",
+        "url": "http://w3.sbs.co.kr/news/newsEndPage.do?news_id=N1001984178"
+      },
+      {
+        "title": "마술사 이은결의 일루션(Illusion), 일루셔니스트(Illusionist)",
+        "url": "http://ch.yes24.com/Article/View/24742"
+      }
+    ]
+  }
+]

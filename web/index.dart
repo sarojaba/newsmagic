@@ -61,9 +61,9 @@ void main() {
 
     print("Counted Tags...");
 
-    tags.forEach((k, v) {
+    /*tags.forEach((k, v) {
       print(k + ", " + v.toString());
-    });
+    });*/
 
     // Tag Cloud
     var r = new Random();
@@ -74,6 +74,8 @@ void main() {
         };
       }))]);
     context['cloud'].callMethod('start');
+    
+    print("Display Tag Cloud...");
 
     // Display Videos
     if (params['q'] != null) {
@@ -89,6 +91,8 @@ void main() {
 
       querySelector('.content').append(ul);
     }
+    
+    print("Display Videos...");
   });
 }
 
