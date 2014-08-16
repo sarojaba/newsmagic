@@ -2,3 +2,4 @@ name: NewsMagic
 description: Magic News Web Page
 dependencies:
   browser: any
+  google_maps: ">=2.0.0 <3.0.0"

@@ -7,8 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="">
 <meta name="author" content="">
-<link rel="shortcut icon"
-	href="favicon.ico">
+<link rel="shortcut icon" href="favicon.ico">
 
 <title>NewsMagic</title>
 
@@ -44,8 +43,9 @@
 		<div class="collapse navbar-collapse">
 			<ul class="nav navbar-nav">
 				<li class="active"><a href="index.html">Home</a></li>
-        <li><a href="magicians.html">Magicians</a></li>
-        <li><a href="links.html">Links</a></li>
+				<li><a href="magicians.html">Magicians</a></li>
+				<li><a href="places.html">Places</a></li>
+				<li><a href="links.html">Links</a></li>
 				<li><a href="about.html">About</a></li>
 			</ul>
 
@@ -62,10 +62,18 @@
 
 	<!-- Content -->
 	<div class="center-block">
-	  <!-- https://github.com/jasondavies/d3-cloud -->
+
+		<div class="fb-like-box"
+			data-href="https://www.facebook.com/NewsMagic" data-width="480"
+			data-height="270" data-colorscheme="light" data-show-faces="true"
+			data-header="true" data-stream="false" data-show-border="true"></div>
+
+		<!-- https://github.com/jasondavies/d3-cloud -->
 		<div class="cloud"></div>
-    <!-- http://designshack.net/articles/css/build-an-animated-photo-wall-with-css/ -->
+
+		<!-- http://designshack.net/articles/css/build-an-animated-photo-wall-with-css/ -->
 		<div class="content cf"></div>
+
 	</div>
 
 	<hr>
@@ -83,61 +91,67 @@
 	<!-- Search Engine -->
 	<script src="js/lunr.min.js"></script>
 	<script>
-  var index = lunr(function() {
-    this.field('title')
-    this.field('category', {'boost': 5})
-    this.ref('id')
-  }); 
-  </script>
+		var index = lunr(function() {
+			this.field('title')
+			this.field('category', {
+				'boost' : 5
+			})
+			this.ref('id')
+		});
+	</script>
 
 	<!-- Tag Cloud -->
 	<script src="js/d3.js"></script>
 	<script src="js/d3.layout.cloud.js"></script>
 	<script>
-  var fill = d3.scale.category20();
+		var fill = d3.scale.category20();
 
-  var cloud = d3.layout.cloud().size([480, 270])
-      .padding(5)
-      .rotate(function() { return ~~(Math.random() * 2) * 90; })
-      .font("Impact")
-      .fontSize(function(d) { return d.size; })
-      .on("end", draw);
-      //.start();
+		var cloud = d3.layout.cloud().size([ 480, 270 ]).padding(5).rotate(
+				function() {
+					return ~~(Math.random() * 2) * 90;
+				}).font("Impact").fontSize(function(d) {
+			return d.size;
+		}).on("end", draw);
+		//.start();
 
-  function draw(words) {
-    d3.select(".cloud").append("svg")
-        .attr("width", 480)
-        .attr("height", 270)
-      .append("g")
-        .attr("transform", "translate(240, 135)")
-      .selectAll("text")
-        .data(words)
-      .enter().append("a")
-        .attr("xlink:href", function(d) { return "index.html?q=" + d.text; })
-      .append("text")
-        .style("font-size", function(d) { return d.size + "px"; })
-        .style("font-family", "Impact")
-        .style("fill", function(d, i) { return fill(i); })
-        .attr("text-anchor", "middle")
-        .attr("transform", function(d) {
-          return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
-        })
-        .text(function(d) { return d.text; });
-  }
-  </script>
+		function draw(words) {
+			d3.select(".cloud").append("svg").attr("width", 480).attr("height",
+					270).append("g").attr("transform", "translate(240, 135)")
+					.selectAll("text").data(words).enter().append("a").attr(
+							"xlink:href", function(d) {
+								return "index.html?q=" + d.text;
+							}).append("text").style("font-size", function(d) {
+						return d.size + "px";
+					}).style("font-family", "Impact").style("fill",
+							function(d, i) {
+								return fill(i);
+							}).attr("text-anchor", "middle").attr(
+							"transform",
+							function(d) {
+								return "translate(" + [ d.x, d.y ] + ")rotate("
+										+ d.rotate + ")";
+							}).text(function(d) {
+						return d.text;
+					});
+		}
+	</script>
 
-	<!--<script>
-  $(window).resize(function() { // attach to resize event
-      if( $(".content").width() > 768 ) {
-        cloud.start();
-      }
-  });
-  </script>-->
+	<div id="fb-root"></div>
+	<script>
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id))
+				return;
+			js = d.createElement(s);
+			js.id = id;
+			js.src = "//connect.facebook.net/ko_KR/all.js#xfbml=1&appId=352737144822805";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
 
 	<script type="application/dart" src="index.dart">
   </script>
 	<script src="packages/browser/dart.js"></script>
-	<script src="packages/browser/interop.js"></script>
 
 </body>
 </html>
