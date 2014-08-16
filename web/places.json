@@ -1,0 +1,297 @@
+[
+  {
+    "category": "Academy",
+    "items": [
+      {
+        "title": "동부산대학교 매직엔터테인먼트과",
+        "address": "부산광역시 해운대구 반송2동 640-5번지 1호관 2층 1222-2호 매직엔터테인먼트과",
+        "lat": 35.232788,
+        "lng": 129.147066
+      },
+      {
+        "title": "동아인재대학교",
+        "address": "전라남도 영암군 학산면 독천리 산22-1",
+        "lat": 34.730514,
+        "lng": 126.568239
+      },
+      {
+        "title": "마술이야기",
+        "address": "부산광역시 부산 진구 부전2동 535-37 백산빌딩 2층 마술이야기",
+        "lat": 35.151364,
+        "lng": 129.058866,
+        "tel": "010-3192-2997"
+      },
+      {
+        "title": "마술학원",
+        "address": "서울특별시 성북구 동소문동5가 54",
+        "lat": 37.592303,
+        "lng": 127.014521
+      },
+      {
+        "title": "매직캣 마술학원 강남점",
+        "address": "서울시 강남구 논현동 115-4 신승빌딩 6F",
+        "lat": 37.516552,
+        "lng": 127.036997
+      },
+      {
+        "title": "매직캣 마술학원 수원점",
+        "address": "수원시 팔달구 중동 36-2 태경빌딩 2F",
+        "lat": 37.274547,
+        "lng": 127.016767
+      },
+      {
+        "title": "매직캣 마술학원 인천점",
+        "address": "인천시 부평구 부평동 378-3 신명빌딩 4F",
+        "lat": 37.498843,
+        "lng": 126.729626
+      },
+      {
+        "title": "매직트리",
+        "address": "대전시 서구 탄방동 1402번지",
+        "tel": "042-585-7672",
+        "web": "http://www.magic-tree.co.kr/"
+      },
+      {
+        "title": "매직핸즈 아카데미",
+        "address": "서울시 마포구 합정동 411-5 대동빌딩 3층",
+        "lat": 37.5483261,
+        "lng": 126.9180967,
+        "tel": "02-333-6730",
+        "web": "http://cafe.naver.com/mhaca"
+      },
+      {
+        "title": "하이매직 마술학원",
+        "address": "울산광역시 중구 중앙길 137",
+        "lat": 35.556078,
+        "lng": 129.320992,
+        "tel": "052-246-8507"
+      },
+      {
+        "title": "한국교육마술아카데미",
+        "address": "서울특별시 서교동 474-2 성화빌딩"
+      },
+      {
+        "title": "한국마술협회 전남지부",
+        "address": "전라남도 순천시 연향동 1350-9",
+        "lat": 34.967519,
+        "lng": 127.523644
+      },
+      {
+        "title": "한국마술협회 대구광역시지부",
+        "address": "대한민국 대구광역시 남구 봉덕3동 666-21",
+        "lat": 35.8748916,
+        "lng": 128.290771
+      },
+      {
+        "title": "Academy of Magical Arts",
+        "address": "Academy of Magical Arts, Franklin Avenue, Los Angeles, CA, United States",
+        "lat": 34.104626,
+        "lng": -118.341833
+      }
+    ]
+  },
+  {
+    "category": "Bar",
+    "items": [
+      {
+        "title": "매직바트릭",
+        "address": "서울 중구 저동1가 90-10 라이프빌딩 2F",
+        "lat": 37.564751,
+        "lng": 126.987142,
+        "tel": "02-757-7227",
+        "web": "www.mtrick.co.kr"
+      }
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "items": [
+      {
+        "title": "원더매직 서울본점",
+        "address": "서울특별시 서초구 방배중앙로 60 지층",
+        "lat": 37.485006,
+        "lng": 126.990671,
+        "tel": "02-586-0807",
+        "web": "http://www.wondermagic.co.kr/"
+      },
+      {
+        "title": "원더매직 부산점",
+        "address": "부산광역시 북구 사랑로 52 3층",
+        "lat": 35.201011,
+        "lng": 129.004871,
+        "web": "http://www.wondermagic.co.kr/"
+      },
+      {
+        "title": "Magic Q",
+        "address": "부산광역시 연제구 거제1동 1477-9 2F",
+        "lat": 35.192953,
+        "lng": 129.067519,
+        "tel": "051-505-9988",
+        "web": "www.magic-q.co.kr"
+      }
+    ]
+  },
+  {
+    "category": "Shop",
+    "items": [
+      {
+        "title": "네오매직",
+        "address": "경기도 고양시 덕양구 화정동 975-3 동양트레벨 204호",
+        "lat": 37.6334517,
+        "lng": 126.8337203
+      },
+      {
+        "title": "더매직",
+        "address": "대구광역시 달서구 상화로 371 비둘기아파트 1단지 상가 110-301호",
+        "lat": 35.8092069,
+        "lng": 128.5529223,
+        "web": "www.themagic.co.kr"
+      },
+      {
+        "title": "LN 마술",
+        "address": "서울 동작구 사당동 1047-31 지하1층"
+      },
+      {
+        "title": "Magic Go",
+        "address": "경기도 안양시 동안구 호계동 1027 안양IT밸리 B102호",
+        "lat": 37.3707123,
+        "lng": 126.9483129
+      },
+      {
+        "title": "매직카우",
+        "address": "부산광역시 부산진구 새싹로 136",
+        "lat": 35.168485,
+        "lng": 129.051133
+      },
+      {
+        "title": "매직팩토리",
+        "address": "서울시 서초구 반포동 745-2",
+        "lat": 37.5038314,
+        "lng": 127.02045,
+        "web": "www.magicfactory.co.kr"
+      },
+      {
+        "title": "와우매직",
+        "address": "경남 창원시 성산구 중앙동 95-2 뉴올림피아상가 B102호",
+        "lat": 35.2238829,
+        "lng": 128.6778606
+      },
+      {
+        "title": "JL Magic",
+        "address": "전북 전주시 덕진구 동부대로 722-19",
+        "lat": 35.853252,
+        "lng": 127.159474,
+        "tel": "1688-7808",
+        "web": "www.16887808.com"
+      },
+      {
+        "title": "헬로매직 방산점",
+        "address": "서울특별시 중구 방산동 93-2",
+        "lat": 37.568284,
+        "lng": 127.001805,
+        "tel": "02-2263-4361"        
+      },
+      {
+        "title": "헬로매직 인천점",
+        "address": "인천광역시 중구 인현동 1-91",
+        "lat": 37.474710,
+        "lng": 126.632100,
+        "tel": "032-772-4360"
+      },
+      {
+        "title": "헬로매직 수원점",
+        "address": "경기도 수원시 권선구 교동 94-3",
+        "tel": "031-257-3666"
+      },
+      {
+        "title": "헬로매직 마산점",
+        "address": "경상남도 마산시 회원구 석전2동 225-4",
+        "lat": 35.235764,
+        "lng": 128.580163,
+        "tel": "055-252-7074"
+      },
+      {
+        "title": "헬로매직 부산점",
+        "address": "부산광역시 부산진구 부전동 426-8",
+        "lat": 35.157924,
+        "lng": 129.053883,
+        "tel": "051-806-7074"
+      },
+      {
+        "title": "헬로매직 대전점",
+        "address": "대전광역시 서구 용문동 243-19",
+        "lat": 36.3380484,
+        "lng": 127.394018,
+        "tel": "042-525-0333"
+      },
+      {
+        "title": "헬로매직 청주점",
+        "address": "충청북도 청주시 상당구 북문로2가 116-43",
+        "lat": 36.6382762,
+        "lng": 127.4898303,
+        "tel": "043-291-3310"
+      },
+      {
+        "title": "헬로매직 성남점",
+        "address": "경기도 성남시 중원구 하대원동 101-1",
+        "lat": 37.4289624,
+        "lng": 127.1305292,
+        "tel": "031-757-2822"
+      },
+      {
+        "title": "헬로매직 의정부점",
+        "address": "경기도 의정부시 의정부3동 163-12",
+        "lat": 37.735376,
+        "lng": 127.0476401,
+        "tel": "031-855-8566"
+      },
+      {
+        "title": "헬로매직 하남점",
+        "address": "경기도 하남시 선동 220-3",
+        "lat": 37.5761449,
+        "lng": 127.1808503,
+        "tel": "031-791-3216 "
+      },
+      {
+        "title": "ABC Magic Shop",
+        "address": "69 N Walnut St, Mt Clemens, MI 48043, USA",
+        "lat": 42.598575,
+        "lng": -82.877583
+      },
+      {
+        "title": "Bernard's Magic Shop",
+        "address": "Level 1/187 Elizabeth St, Melbourne VIC 3000, 오스트레일리아",
+        "lat": -37.813519,
+        "lng": 144.962626
+      },
+      {
+        "title": "Doc's Magic Shop",
+        "address": "631 Parkway A-11, Gatlinburg, TN 37738",
+        "lat": 35.713234,
+        "lng": -83.514476,
+        "web": "http://www.docsmagicshop.com/"
+      },
+      {
+        "title": "The Magic Warehouse",
+        "address": "11419 Cronridge Dr #10, Owings Mills, MD 21117",
+        "lat": 39.43711,
+        "lng": -76.775396,
+        "web": "http://themagicwarehouse.com/"
+      },
+      {
+        "title": "Magic Central",
+        "address": "175 Weaverville Rd, Asheville, NC 28804",
+        "lat": 35.7129901,
+        "lng": -83.514476,
+        "web": "http://magiccentralasheville.com/"
+      },
+      {
+        "title": "Make It Magic Magic Shop",
+        "address": "1120 Glades Rd, Gatlinburg, TN 37738",
+        "lat": 35.7129901,
+        "lng": -83.514476,
+        "web": "http://www.makeitmagic.com/"
+      }
+    ]
+  }
+]
