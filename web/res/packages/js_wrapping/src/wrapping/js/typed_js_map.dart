@@ -8,7 +8,7 @@ part of js_wrapping;
 class TypedJsMap<V> extends TypedJsObject implements Map<String,V> {
   static TypedJsMap $wrap(JsObject jsObject, {wrap(js), unwrap(dart)}) => jsObject == null ? null : new TypedJsMap.fromJsObject(jsObject, wrap: wrap, unwrap: unwrap);
 
-  static TypedJsMap $wrapSerializables(JsObject jsObject, wrap(js)) => jsObject == null ? null : new TypedJsMap.fromJsObject(jsObject, wrap: wrap);
+  static TypedJsMap $wrapSerializables(JsObject jsObject, wrap(js)) => jsObject == null ? null : new TypedJsMap.fromJsObject(jsObject, wrap: wrap, unwrap: Serializable.$unwrap);
 
   final Mapper<V, dynamic> _unwrap;
   final Mapper<dynamic, V> _wrap;
@@ -47,4 +47,5 @@ class TypedJsMap<V> extends TypedJsObject implements Map<String,V> {
   @override int get length => Maps.length(this);
   @override bool get isEmpty => Maps.isEmpty(this);
   @override bool get isNotEmpty => Maps.isNotEmpty(this);
+  @override String toString() => Maps.mapToString(this);
 }
