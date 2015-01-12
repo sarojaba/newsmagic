@@ -85,7 +85,7 @@ void main() {
       var ul = new UListElement();
 
       items.shuffle();
-      items.getRange(0, 32).forEach((e) {
+      items.getRange(0, 64).forEach((e) {
         ul.children.add(createListItem(e));
       });
 
