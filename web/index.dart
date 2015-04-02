@@ -58,6 +58,18 @@ void main() {
         tags[t]++;
       });
     });
+    
+    items.forEach((e) {
+      if(e['magician'] == null) {
+        return;
+      }
+      
+      e['magician'].split(',').forEach((f) {
+        String t = f.trim();
+        tags.putIfAbsent(t, () => 0);
+        tags[t]++;
+      });
+    });
 
     print("Counted Tags...");
 

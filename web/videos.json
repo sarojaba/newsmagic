@@ -1,5 +1,115 @@
 [
   {
+    "id": "_R3WgYYgkBI",
+    "title": "Magician Ricky Jay- Card Trick (Merv Griffin Show 1983)",
+    "category": "Close-up, Card",
+    "magician": "Ricky Jay"
+  },
+  {
+    "id": "AxlPryUjj94",
+    "title": "Jason England - What to read?",
+    "category": "Talk, Card",
+    "magician": "Jason England"
+  },
+  {
+    "id": "jwCzsT34L5w",
+    "title": "Tiempos Modernos - Modern Times - Henry Evans - www.mundomagos.com",
+    "category": "Close-up, Card",
+    "magician": "Henry Evans"
+  },
+  {
+    "id": "Pjp-5IY8aiQ",
+    "title": "듀오매직 퀵체인지쇼 / 아침마당 출연",
+    "category": "Illusion",
+    "magician": "유현민, 박은경"
+  },
+  {
+    "id": "0TAKeGw8cM4",
+    "title": "세계 최대 마술쇼에 선 한국인 청년 / YTN",
+    "category": "News",
+    "magician": "유호진"
+  },
+  {
+    "id": "GKHVbdJN4Pk",
+    "title": "Ricky Jay - Late Night with Conan O'Brien (September 25, 2002)",
+    "category": "Close-up, Card",
+    "magician": "Ricky Jay"
+  },
+  {
+    "id": "FqH1udWk198",
+    "title": "Marcel prince de l'illusion - world champion",
+    "category": "Illusion",
+    "magician": "Marcel Prince"
+  },
+  {
+    "id": "1A4oGggqwHc",
+    "title": "Ferris flourish",
+    "category": "Close-up, Card"
+  },
+  {
+    "id": "LJO-qz1XX3o",
+    "title": "Magical appearance on the table",
+    "category": "Parlor",
+    "magician": "Victor Voitko"
+  },
+  {
+    "id": "zU_LJaisnyg",
+    "title": "Helder Guimaraes 2006 FISM",
+    "category": "Close-up, Card",
+    "magician": "Helder Guimaraes"
+  },
+  {
+    "id": "o9b5-68aKj4",
+    "title": "Quick Little Color Change",
+    "category": "Close-up, Card"
+  },
+  {
+    "id": "kpanUn_BB3k",
+    "title": "3 Coins Across | 3コインズ・アクロス",
+    "category": "Close-up, Coin"
+  },
+  {
+    "id": "1QXSKqhNu3o",
+    "title": "Card Appears in Girls Panties - Magic Prank",
+    "category": "Street",
+    "magician": "Rich Ferguson"
+  },
+  {
+    "id": "MkaWoSkOtCg",
+    "title": "오은영마술사 기타마술",
+    "category": "Stage",
+    "magician": "오은영"
+  },
+  {
+    "id": "q6fS2jQtBAE",
+    "title": "GoPro Hero 2 - Cards",
+    "category": "Cardistry"
+  },
+  {
+    "id": "vWf104fd1Qs",
+    "title": "Jamie Allans - Split Screens Illusion",
+    "category": "Illusion",
+    "magician": "Jamie Allan"
+  },
+  {
+    "id": "lxb6UsZyjLw",
+    "title": "마술사들의 돈 10배로 버는 법!",
+    "category": "Close-up",
+    "magician": "박설하"
+  },
+  {
+    "id": "qh4WiHSX84U",
+    "title": "DC Suit Production by Daniel Chard",
+    "category": "Close-up, Card",
+    "magician": "Daniel Chard"
+  },
+  {
+    "id": "aDgk7E1jzU4",
+    "title": "Ninja+ Extreme Magic",
+    "category": "Close-up",
+    "magician": "Matthew Garrett"
+  },
+  {
     "id": "fUO8RDfpIlg",
     "title": "[nimble mind] 140912 줌-인(zoom-in) trailer",
     "category": "Documentary",
@@ -145,7 +255,7 @@
     "id": "2L0JGvr5Ivw",
     "title": "Deck switch DVD+Gimmick promo - by Zeki , Yoo",
     "category": "Close-up",
-    "magician": "zeki yoo"
+    "magician": "유현민"
   },
   {
     "id": "QqISsXkkBlM",
@@ -168,31 +278,31 @@
   {
     "id": "7EKrX7hYUc4",
     "title": "6 Killer Magic Tricks Performed By a Zombie",
-    "category": "Street, Ryan Joyce",
+    "category": "Street",
     "magician": "Ryan Joyce"
   },
   {
     "id": "wc-Tfw6nyqo",
     "title": "How to steal coffee from someone at Starbucks - JustinFlom",
-    "category": "Street, Justin Flom",
+    "category": "Street",
     "magician": "Justin Flom"
   },
   {
     "id": "FsJ5KZ4sgCs",
     "title": "Daortiz - Four Fly",
-    "category": "Close-up, Card, Dani Daortiz",
+    "category": "Close-up, Card",
     "magician": "Dani Daortiz"
   },
   {
     "id": "sjw-fp4GTCc",
     "title": "Justin Flom vs. Justin Willman - Dueling Magicians - David McCreary's Exposed Ep 6",
-    "category": "Stage, Justin Flom, Justin Willman",
+    "category": "Stage",
     "magician": "Justin Flom, Justin Willman"
   },
   {
     "id": "2jLbw0KucHU",
     "title": "LIVE STAGE - DOUBLE LEVITATION (CCTV)",
-    "category": "Illusion, Eun Kyul Lee",
+    "category": "Illusion",
     "magician": "Eun Kyul Lee"
   },
   {
@@ -219,31 +329,31 @@
   {
     "id": "yny0VDxgNwQ",
     "title": "Magician Tries To Sell Weed To Cops!!",
-    "category": "Street, Calen Morelli",
+    "category": "Street",
     "magician": "Calen Morelli"
   },
   {
     "id": "IvVnZW8FOLI",
     "title": "Double Floating Card Trick",
-    "category": "Close-up, Card, Leon Winchester",
+    "category": "Close-up, Card",
     "magician": "Leon Winchester"
   },
   {
     "id": "jaRAKhSXu48",
     "title": "Uri Geller Tries to Bend the iPhone 6",
-    "category": "Uri Geller",
+    "category": "Parody",
     "magician": "Uri Geller"
   },
   {
     "id": "9Db6JZHh0SA",
     "title": "How Dogs React to Levitating Wiener",
-    "category": "Close-up, Jose Ahonen",
+    "category": "Close-up",
     "magician": "Jose Ahonen"
   },
   {
     "id": "mHUz4QFFP0U",
     "title": "Video Game Magician Live. Arcade Illusion Magic Show",
-    "category": "Stage, Michael Barron",
+    "category": "Stage",
     "magician": "Michael Barron"
   },
   {
@@ -255,14 +365,14 @@
   {
     "id": "n7bxIy9iy60",
     "title": "Spe!!bound",
-    "category": "Close-up, Coin, Shota Okano",
+    "category": "Close-up, Coin",
     "magician": "Shota Okano"
   },
   {
     "id": "h1B_InSTU9M",
     "title": "4th dimension effect - by Zeki, Yoo",
-    "category": "Close-up, Zeki Yoo",
-    "magician": "Zeki Yoo"
+    "category": "Close-up",
+    "magician": "유현민"
   },
   {
     "id": "Lq268S2Ayj8",
@@ -277,37 +387,37 @@
   {
     "id": "_9mtLqYcjQw",
     "title": "YU HOJIN Manipulation card.",
-    "category": "Stage, Hojin Yu",
+    "category": "Stage",
     "magician": "Hojin Yu"
   },
   {
     "id": "kKj9zQb4xrE",
     "title": "Hiroki Hara -The new generation of Japanese fusion magic",
-    "category": "Stage, Hiroki Hara",
+    "category": "Stage",
     "magician": "Hiroki Hara"
   },
   {
     "id": "7AtX2og7CT4",
     "title": "Duo magic at Theater",
-    "category": "Stage, Zeki Yoo",
-    "magician": "Zeki Yoo"
+    "category": "Stage",
+    "magician": "유현민"
   },
   {
     "id": "GEHe5yYLvLQ",
     "title": "[JTBC] 히든싱어 3회 명장면 - 도전자 소개 마술사 성시경 박지훈!",
-    "category": "TV, Jihoon Park",
+    "category": "TV",
     "magician": "Jihoon Park"
   },
   {
     "id": "ySo_pnStfj4",
     "title": "Magical Marriage Proposal - Toronto Magician IncrediBrent @ Sherkston Shores",
-    "category": "Stage, IncrediBrent",
+    "category": "Stage",
     "magician": "IncrediBrent"
   },
   {
     "id": "ZzINLWSLzHY",
     "title": "BAND OF MAGICIANS - The World's First Magic Supergroup ™",
-    "category": "James Galea, Justin Willman, Nate Staniforth, Justin Flom",
+    "category": "",
     "magician": "James Galea, Justin Willman, Nate Staniforth, Justin Flom"
   },
   {
@@ -319,7 +429,7 @@
   {
     "id": "IybOSd476bU",
     "title": "여자에게 마술로 작업하는 마술사 성공할까?",
-    "category": "JunHyung Lee",
+    "category": "",
     "magician": "JunHyung Lee"
   },
   {
@@ -335,7 +445,7 @@
   {
     "id": "eEIohvuBSK8",
     "title": "David Copperfield Laser Illusion",
-    "category": "Illusion, David Copperfield",
+    "category": "Illusion",
     "magician": "David Copperfield"
   },
   {
@@ -352,7 +462,7 @@
   {
     "id": "Syq4CLPMBJc",
     "title": "Ben Hanlin Magic Tricks - Fruyo Greek Yoghurt Appears from Nowhere",
-    "category": "Street, Ben Hanlin",
+    "category": "Street",
     "magician": "Ben Hanlin"
   },
   {
@@ -368,19 +478,19 @@
   {
     "id": "Nc6t0nqmVnA",
     "title": "David Copperfield Teaches a Magic Trick On-Camera",
-    "category": "Close-up, David Copperfield",
+    "category": "Close-up",
     "magician": "David Copperfield"
   },
   {
     "id": "hvCeFp_iGHE",
     "title": "Arnaud Chevrier - Invisible Palm",
-    "category": "Close-up, Arnaud Chevrier, Invisible Palm",
+    "category": "Close-up, Invisible Palm",
     "magician": "Arnaud Chevrier"
   },
   {
     "id": "CchMwxHJ188",
     "title": "Tony Chapek on network TV - World Magic Awards 2007",
-    "category": "Stage, Tony Chapek",
+    "category": "Stage",
     "magician": "Tony Chapek"
   },
   {
@@ -410,7 +520,7 @@
     "id": "UYodPuAVfrc",
     "title": "TMA convention 2014 Zeki Yoo , Fism act",
     "category": "Close-up, TMA",
-    "magician": "Zeki Yoo"
+    "magician": "유현민"
   },
   {
     "id": "fuDdT8G8DCc",
@@ -426,7 +536,7 @@
   {
     "id": "okuwB9zrncg",
     "title": "Magic for Dogs part 2 - Taikuutta Koirille osa 2",
-    "category": "Street, Comedy, Dog, Jose Ahonen",
+    "category": "Street, Comedy, Dog",
     "magician": "Jose Ahonen"
   },
   {
@@ -437,25 +547,25 @@
   {
     "id": "v-HUlH4ekrA",
     "title": "Ultimate As Mc Donald J.P. Vallarino - www.MJMMagic.com",
-    "category": "Close-up, Card, J.P. Vallarino",
+    "category": "Close-up, Card",
     "magician": "J.P. Vallarino"
   },
   {
     "id": "Ggfka3Raetw",
     "title": "Sly Newspaper Tear by Tony Clark",
-    "category": "Stage, Tony Clark",
+    "category": "Stage",
     "magician": "Tony Clark"
   },
   {
     "id": "tBqZ_LCYfw4",
     "title": "Professional by Kim Hyun Soo",
-    "category": "Stage, Kim Hyun Soo",
+    "category": "Stage",
     "magician": "Kim Hyun Soo"
   },
   {
     "id": "F_y_Na9qtUI",
     "title": "SDF 지하철 미션 - 이은결 편 ㅣ SDF2014",
-    "category": "Documentary, Street, Eun Kyul Lee",
+    "category": "Documentary, Street",
     "magician": "Eun Kyul Lee"
   },
   {
@@ -467,7 +577,7 @@
   {
     "id": "hVT_OM94vTg",
     "title": "Yu hojin FISM 2012",
-    "category": "Stage, Card, Manipulation, Hojin Yu",
+    "category": "Stage, Card, Manipulation",
     "magician": "Hojin Yu"
   },
   {
@@ -478,25 +588,25 @@
   {
     "id": "AMn0uHWsdd8",
     "title": "MAGIC BEATBOX",
-    "category": "General, Calen Morelli",
+    "category": "General",
     "magician": "Calen Morelli"
   },
   {
     "id": "70AKeWSIpUg",
     "title": "[SBS] 스타킹 219회 (20110611) 명장면 코믹마술사",
-    "category": "Parlor, Min Hyung Kim",
+    "category": "Parlor",
     "magician": "Min Hyung Kim"
   },
   {
     "id": "krK4TuHdDQo",
     "title": "Emperor by MO & RYU-KA video 1",
-    "category": "Close-up, Card, MO",
+    "category": "Close-up, Card",
     "magician": "MO"
   },
   {
     "id": "UXm-dBSUGCs",
     "title": "Jaehoon Lim -2011 Le Plus Grand Cabaret Du Monde",
-    "category": "Stage, Jae Hoon Lim, Le Plus Grand Cabaret Du Monde",
+    "category": "Stage, Le Plus Grand Cabaret Du Monde",
     "magician": "Jae Hoon Lim"
   },
   {
@@ -507,7 +617,7 @@
   {
     "id": "BLS5kmh-Ydo",
     "title": "Jaspas Deck - Cardistry: Our Space (World Kardistry Championship Finals)",
-    "category": "Cardistry, Jaspas Deck, WKC",
+    "category": "Cardistry, WKC",
     "magician": "Jaspas Deck"
   },
   {
@@ -518,31 +628,31 @@
   {
     "id": "7BHlQUNfnrY",
     "title": "魔術師陳日昇Sunny Chen@Le Plus Grand cabaret du Monde",
-    "category": "Stage, Sunny Chen, Le Plus Grand Cabaret Du Monde",
+    "category": "Stage, Le Plus Grand Cabaret Du Monde",
     "magician": "Sunny Chen"
   },
   {
     "id": "91FMqdYcIRs",
     "title": "Luis and Ashley's Grand Illusion - The Magicians - Episode 1 - BBC One",
-    "category": "Illusion, BBC, Luis de Matos",
+    "category": "Illusion, BBC",
     "magician": "Luis de Matos"
   },
   {
     "id": "za8j9fQOMYo",
     "title": "Lance Burton Magic Cups And Balls",
-    "category": "Close-up, Cups and Balls, Lance Burton",
+    "category": "Close-up, Cups and Balls",
     "magician": "Lance Burton"
   },
   {
     "id": "vemENEF3dKU",
     "title": "Winner of 2010 Blackpool stage magic championship",
-    "category": "Stage, Wand, Manipulation, JungMin Lee",
+    "category": "Stage, Wand, Manipulation",
     "magician": "JungMin Lee"
   },
   {
     "id": "uI5I1w3l3Tg",
     "title": "Andost - FISM 2012 Closeup Act - 1st place Micro Magic",
-    "category": "Close-up, Card, FISM, Andost",
+    "category": "Close-up, Card, FISM",
     "magician": "Andost"
   },
   {
@@ -588,7 +698,7 @@
     "id": "T-XoN1Ts6Wg",
     "title": "Jason LATIMER The World Champion of Magic - MAGIC SHOW LASERS Video Laser Magic",
     "category": "Stage",
-    "magician": "Jason LATIMER"
+    "magician": "Jason Latimer"
   },
   {
     "id": "ii8wKV6bIe8",
@@ -599,37 +709,37 @@
   {
     "id": "VAxM2Iojb5g",
     "title": "謳歌-Ouka- EURO!(Diabolo act)",
-    "category": "Performance, Juggling, Diabolo, Ouka",
+    "category": "Performance, Juggling, Diabolo",
     "magician": "Ouka"
   },
   {
     "id": "7PBlTLTFJpU",
     "title": "Master Course on Sponge Balls by Daryl - Volume 4",
-    "category": "Close-up, Sponge Ball, Daryl, Lecture",
+    "category": "Close-up, Sponge Ball, Lecture",
     "magician": "Daryl"
   },
   {
     "id": "WRSdnl0R-d8",
     "title": "Shape of My Heart",
-    "category": "Close-up, Card, Albert Chang",
+    "category": "Close-up, Card",
     "magician": "Albert Chang"
   },
   {
     "id": "qjHoedoSUXY",
     "title": "Michael Moschen performs THE TRIANGLE",
-    "category": "Performance, Juggling, Michael Moschen",
+    "category": "Performance, Juggling",
     "magician": "Michael Moschen"
   },
   {
     "id": "6wz0JEtq7w0",
     "title": "140323 tvN 코미디빅리그 시즌5 수상한가정부 최현우 마술사",
-    "category": "Charming Choi",
+    "category": "",
     "magician": "Charming Choi"
   },
   {
     "id": "_v0YMDS7axc",
     "title": "Crazy Mr.J 인생극장편",
-    "category": "Gwang Jung Kim",
+    "category": "",
     "magician": "Gwang Jung Kim"
   },
   {
@@ -645,19 +755,13 @@
   {
     "id": "0fOBYepmNLc",
     "title": "Super Subtle Card Miracles Featuring Simon Lovell",
-    "category": "Close-up, Card, Simon Lovell",
+    "category": "Close-up, Card",
     "magician": "Simon Lovell"
-  },
-  {
-    "id": "rIaRZSSgjJI",
-    "title": "ROCA-created by MOON TAE HYUN",
-    "category": "Stage, Tae Hyun Moon",
-    "magician": "Tae Hyun Moon"
   },
   {
     "id": "ME3wseO5aJ4",
     "title": "THE CHALLENGE by Jaehoon Lim [Trailer video/Full Version/English]",
-    "category": "Close-up, Jae Hoon Lim",
+    "category": "Close-up",
     "magician": "Jae Hoon Lim"
   },
   {
@@ -668,7 +772,7 @@
   {
     "id": "sPehP5ZPPms",
     "title": "Jeff Mc Bride - Les Masques - Le plus grand cabaret du monde",
-    "category": "Stage, Jeff Mc Bride",
+    "category": "Stage",
     "magician": "Jeff Mc Bride"
   },
   {
@@ -679,13 +783,13 @@
   {
     "id": "kRm2N0oi22A",
     "title": "Card Cube by Persus Arkomanis and Alakzam Magic",
-    "category": "Close-up, Persus Arkomanis",
+    "category": "Close-up",
     "magician": "Persus Arkomanis"
   },
   {
     "id": "xUXxto-Ymfw",
     "title": "Audi RS7 2014 illusion by Florian Zimmer at the Detroit Auto Show NAIAS (full)",
-    "category": "Florian Zimmer",
+    "category": "",
     "magician": "Florian Zimmer"
   },
   {
@@ -701,19 +805,19 @@
   {
     "id": "wkCmmuiDFcg",
     "title": "Jérôme Murat - La Statue - Le Plus Grand Cabaret Du Monde",
-    "category": "Stage, Jérôme Murat",
+    "category": "Stage",
     "magician": "Jérôme Murat"
   },
   {
     "id": "MNm-oCcbieY",
     "title": "Michael Ammar - Performance of 4 Minutes of Fame",
-    "category": "Close-up, Michael Ammar",
+    "category": "Close-up",
     "magician": "Michael Ammar"
   },
   {
     "id": "CUwFGcZ4xjk",
     "title": "EXPOSURE",
-    "category": "Close-up, Card, Daniel Madison",
+    "category": "Close-up, Card",
     "magician": "Daniel Madison"
   },
   {
@@ -739,31 +843,31 @@
   {
     "id": "ck9LFEfZRGI",
     "title": "Alex Elmsley - Dazzle",
-    "category": "Close-up, Card, Alex Elmsley",
+    "category": "Close-up, Card",
     "magician": "Alex Elmsley"
   },
   {
     "id": "Df1GHW60tuw",
     "title": "THE SWITCH // SHIN LIM (Official Trailer)",
-    "category": "Close-up, Shin Lim",
+    "category": "Close-up",
     "magician": "Shin Lim"
   },
   {
     "id": "75drN_5hEcc",
     "title": "The Cups and Balls Revolution (Video 2) by Jaque - www.MJMMagic.com",
-    "category": "Close-up, Cups and Balls, Jaque",
+    "category": "Close-up, Cups and Balls",
     "magician": "Jaque"
   },
   {
     "id": "GBpBpfBNvO4",
     "title": "Pop Art by Mark Southworth",
-    "category": "Mark Southworth",
+    "category": "",
     "magician": "Mark Southworth"
   },
   {
     "id": "SLpvj90wpjw",
     "title": "MatriXpress (PhotoFinish) 2011 Shawn Farquhar",
-    "category": "Coin, Shawn Farquhar",
+    "category": "Coin",
     "magician": "Shawn Farquhar"
   },
   {
@@ -774,49 +878,49 @@
   {
     "id": "6Gvyg3UnDSI",
     "title": "Patrick Kun :: Inflict (Visual Color Changing Sandwich) // Theory11",
-    "category": "Close-up, Card, Patrick Kun, Sandwich",
+    "category": "Close-up, Card, Sandwich",
     "magician": "Patrick Kun"
   },
   {
     "id": "PsIYArZ9zQU",
     "title": "Magician 'ALT' 이영우의 'question'",
-    "category": "Close-up, Card, ALT",
+    "category": "Close-up, Card",
     "magician": "ALT"
   },
   {
     "id": "Jucxw56RDik",
     "title": "SOMA - Phone Act",
-    "category": "Stage, SOMA",
+    "category": "Stage",
     "magician": "SOMA"
   },
   {
     "id": "6EhpEvuI3-M",
     "title": "Video pirate concours FISM 2012 JPh LOUPI",
-    "category": "Stage, Jean-Philippe LOUPI, FISM",
+    "category": "Stage, FISM",
     "magician": "Jean-Philippe LOUPI"
   },
   {
     "id": "lwb4HvUTk_Q",
     "title": "Yif Magic 快樂大本營 2014 Make a Wish",
-    "category": "Close-up, Yif",
+    "category": "Close-up",
     "magician": "Yif"
   },
   {
     "id": "w6tB3zIOuhE",
     "title": "Teaser: Retour vers le Passé de Jean Pierre VALLARINO",
-    "category": "Close-up, Jean Pierre VALLARINO",
+    "category": "Close-up",
     "magician": "Jean Pierre VALLARINO"
   },
   {
     "id": "im4FpbwSqSw",
     "title": "Magician 'Pearl' 오해석의  'sleight of hand and more'",
-    "category": "Close-up, Pearl",
+    "category": "Close-up",
     "magician": "Pearl"
   },
   {
     "id": "8BYe9mQhSoA",
     "title": "Moon Tae-Hyun fire & zombie ball stage magic act",
-    "category": "Stage, Tae Hyun Moon",
+    "category": "Stage",
     "magician": "Tae Hyun Moon"
   },
   {
@@ -827,7 +931,7 @@
   {
     "id": "LGNAfBQwz4M",
     "title": "Asher Twist by Lee Asher (HD)",
-    "category": "Close-up, Card, Asher Twist, Lee Asher",
+    "category": "Close-up, Card, Asher Twist",
     "magician": "Lee Asher"
   },
   {
@@ -843,7 +947,7 @@
   {
     "id": "O7lB_d6v_eA",
     "title": "Ray Kosby's Impossible Close-Up Magic",
-    "category": "Close-up, Ray Kosby",
+    "category": "Close-up",
     "magician": "Ray Kosby"
   },
   {
@@ -864,7 +968,7 @@
   {
     "id": "ethCJ4bfJkg",
     "title": "Stevie Starr - Britain's Got Talent 2010 - Semi-final 1",
-    "category": "Stevie Starr",
+    "category": "Got Talent",
     "magician": "Stevie Starr"
   },
   {
@@ -880,19 +984,19 @@
   {
     "id": "2TLPBwuHtTY",
     "title": "Dai Vernon - Cups and Balls",
-    "category": "Close-up, Cups and Balls, Dai Vernon",
+    "category": "Close-up, Cups and Balls",
     "magician": "Dai Vernon"
   },
   {
     "id": "NSxOE-1P2y0",
     "title": "Hayashi - Britain's Got Talent 2010 - Auditions Week 4",
-    "category": "Hayashi",
+    "category": "Got Talent",
     "magician": "Hayashi"
   },
   {
     "id": "CfmKMV_a0nw",
     "title": "52 Shades of Red (LIVE) // Shin Lim",
-    "category": "Close-up, Card, Shin Lim",
+    "category": "Close-up, Card",
     "magician": "Shin Lim"
   },
   {
@@ -903,25 +1007,25 @@
   {
     "id": "ujaMvPUBcvY",
     "title": "Cyril Takayama - Burger Magic",
-    "category": "Street, Cyril Takayama",
+    "category": "Street",
     "magician": "Cyril Takayama"
   },
   {
     "id": "fz8P2c02p_s",
     "title": "Yo Kato - Le Plus Grand Cabaret du monde",
-    "category": "Stage, Yo Kato, Le Plus Grand Cabaret du monde",
+    "category": "Stage, Le Plus Grand Cabaret du monde",
     "magician": "Yo Kato"
   },
   {
     "id": "6RKC_6PV_Zo",
     "title": "Florian Zimmer GRAFFITI ACT LIVE - the color of magic - MUST SEE !!",
-    "category": "Stage, Florian Zimmer, Le Plus Grand Cabaret du Monde",
+    "category": "Stage, Le Plus Grand Cabaret du Monde",
     "magician": "Florian Zimmer"
   },
   {
     "id": "lQPkaDrZYi4",
     "title": "Stunning World Class Coin Magic - Michael Vincent",
-    "category": "Close-up, Coin, Michael Vincent",
+    "category": "Close-up, Coin",
     "magician": "Michael Vincent"
   },
   {
@@ -932,8 +1036,8 @@
   {
     "id": "5BjK_n7UHwE",
     "title": "ULTIMATE Cartes folles par Jean Pierre VALLARINO - Arteco Production",
-    "category": "Close-up, Card, Jean Pierre VALLARINO",
-    "magician": "Jean Pierre VALLARINO"
+    "category": "Close-up, Card",
+    "magician": "Jean Pierre Vallarino"
   },
   {
     "id": "2FR-7Y4_qVE",
@@ -958,31 +1062,31 @@
   {
     "id": "EhZEnK85JGU",
     "title": "David Copperfield - The Vanishing Egg!",
-    "category": "Parlor, David Copperfield",
+    "category": "Parlor",
     "magician": "David Copperfield"
   },
   {
     "id": "uRZPKUuvG1M",
     "title": "Liu Chien (Lu hen) - Dove Work",
-    "category": "Stage, Dove, Liu Chien",
+    "category": "Stage, Dove",
     "magician": "Liu Chien"
   },
   {
     "id": "_WUraVlfSxE",
     "title": "Jaspas Deck - Cardistry: Through Silk (World Kardistry Championship Round 1)",
-    "category": "Cardistry, Jaspas",
+    "category": "Cardistry",
     "magician": "Jaspas"
   },
   {
     "id": "x1ykPY7Y3LY",
     "title": "David Blaine - Pulling Teeth",
-    "category": "Street, David Blaine",
+    "category": "Street",
     "magician": "David Blaine"
   },
   {
     "id": "oTZJbwBjMo8",
     "title": "Harry Anderson's The Grappler Routine",
-    "category": "Stage, Harry Anderson",
+    "category": "Stage",
     "magician": "Harry Anderson"
   },
   {
@@ -993,19 +1097,19 @@
   {
     "id": "qu8Dla5rASU",
     "title": "Japanese Traditional Magic: Kohtaro Fujiyama at TEDxTokyo (English)",
-    "category": "Stage, Kohtaro Fujiyama",
+    "category": "Stage",
     "magician": "Kohtaro Fujiyama"
   },
   {
     "id": "Igfw_WiA1h4",
     "title": "Vik and Fabrini Original act",
-    "category": "Stage, Vik and Fabrini",
+    "category": "Stage",
     "magician": "Vik and Fabrini"
   },
   {
     "id": "MjROBaQsBpo",
     "title": "Meir Yedid performing his 'Finger Fantasies' act on the 1986 TV series Comedy Tonight. ",
-    "category": "Stage, Meir Yedid",
+    "category": "Stage",
     "magician": "Meir Yedid"
   },
   {
@@ -1016,13 +1120,13 @@
   {
     "id": "LpBgDffoCqA",
     "title": "David Roth",
-    "category": "Close-up, Coin, David Roth",
+    "category": "Close-up, Coin",
     "magician": "David Roth"
   },
   {
     "id": "vEcwqguJVhI",
     "title": "Raymond Crowe | Grand Final Performance | Australia's Got Talent 2013",
-    "category": "Stage, Raymond Crowe",
+    "category": "Stage",
     "magician": "Raymond Crowe"
   },
   {
@@ -1049,25 +1153,25 @@
   {
     "id": "l14O5Zu8S3g",
     "title": "Kenji Minemura NEW stage: DOLL",
-    "category": "Stage, Kenji Minemura",
+    "category": "Stage",
     "magician": "Kenji Minemura"
   },
   {
     "id": "BPaFq6rBpHk",
     "title": "EP: The Card Magic of Valdemar Gestur",
-    "category": "Close-up, Card, Valdemar Gestur",
+    "category": "Close-up, Card",
     "magician": "Valdemar Gestur"
   },
   {
     "id": "xb8agQ2sGkA",
     "title": "Bill Malone - 21 Card Trick",
-    "category": "Close-up, Card, Bill Malone",
+    "category": "Close-up, Card",
     "magician": "Bill Malone"
   },
   {
     "id": "GigYWy2UmOY",
     "title": "Keith Barry: Brain magic",
-    "category": "Mental, TED, Keith Barry",
+    "category": "Mental, TED",
     "magician": "Keith Barry"
   },
   {
@@ -1078,13 +1182,13 @@
   {
     "id": "AVBNI76IJAw",
     "title": "De'vo Dominion Porper Ghost move - HE DOESN'T TOUCH THE CARD!",
-    "category": "Cardistry, De'vo",
+    "category": "Cardistry",
     "magician": "De'vo"
   },
   {
     "id": "IE5tSWFC5sQ",
     "title": "Bullet Party (2 DVD Set) by John Bannon",
-    "category": "Close-up, Card, John Bannon",
+    "category": "Close-up, Card",
     "magician": "John Bannon"
   },
   {
@@ -1095,19 +1199,19 @@
   {
     "id": "4Aye9GTS2d4",
     "title": "오즈 그레이트 앤드 파워풀_최현우 마술영상",
-    "category": "Close-up, Card, Charming Choi",
+    "category": "Close-up, Card",
     "magician": "Charming Choi"
   },
   {
     "id": "zd21Tt8UE8g",
     "title": "Hyun Joon Kim & Parodia (Cobarcho) - Buenas noches y Buenafuente",
-    "category": "Stage, Hyun Joon Kim",
+    "category": "Stage",
     "magician": "Hyun Joon Kim"
   },
   {
     "id": "T5KQ5LTgOug",
     "title": "ACE by Richard Sanders - DVD at Penguin Magic",
-    "category": "Close-up, Card, Richard Sanders",
+    "category": "Close-up, Card",
     "magician": "Richard Sanders"
   },
   {
@@ -1118,19 +1222,19 @@
   {
     "id": "pMnga8cDcfI",
     "title": "Zeki (Yoo Hyun Min) - Mission Impossible Card",
-    "category": "Close-up, Card, Zeki Yoo",
-    "magician": "Zeki Yoo"
+    "category": "Close-up, Card",
+    "magician": "유현민"
   },
   {
     "id": "1_oa8m5Oq00",
     "title": "Lennart Green: Close-up card magic with a twist",
-    "category": "Close-up, Card, TED, Lennart Green",
+    "category": "Close-up, Card, TED",
     "magician": "Lennart Green"
   },
   {
     "id": "EDUkQvJSAJE",
     "title": "EDGE by Mathieu Bich [theory11]",
-    "category": "Close-up, Card, Mathieu Bich",
+    "category": "Close-up, Card",
     "magician": "Mathieu Bich"
   }
 ]
