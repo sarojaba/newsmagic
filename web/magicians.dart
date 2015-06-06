@@ -26,6 +26,8 @@ void main() {
     items.retainWhere((e) {
       return e['magician'] != null && e['magician'] != '';
     });
+    
+    print("Filtering only magicians Complete...");
 
     // Add Document
     items.forEach((e) {
@@ -36,12 +38,21 @@ void main() {
         })]);
     });
     
+    print("Added Document Complete...");
+    
     // 
     var magicians = new Map<String, List<String>>();
     items.forEach((e) {
-      magicians.putIfAbsent(e['magician'], () => new List());
-      magicians[e['magician']].add(e['id']);
+      var name = e['magician'];
+      name.split(",").forEach((n) {
+        magicians.putIfAbsent(n.trim(), () => new List());
+        magicians[n.trim()].add(e['id']);
+      });
+      //magicians.putIfAbsent(e['magician'], () => new List());
+      //magicians[e['magician']].add(e['id']);
     });
+    
+    print("Added Magicians Complete...");
 
     // Sort
     List<String> names = magicians.keys.toList()..sort((x, y) {
